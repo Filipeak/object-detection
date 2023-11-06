@@ -1,1 +1,1 @@
-# object-detection
+# Python Object Detection
