@@ -14,7 +14,7 @@ Run this command:
 pip install -r requirements.txt
 ```
 
-## Run
+## Usage
 
 If you want to use face detection system you have to create folder named ```res``` and upload your face image as ```Face.jpg```
 
@@ -25,3 +25,8 @@ Then you can just run:
 ```
 python main.py
 ```
+
+## References
+
+- https://realpython.com/face-recognition-with-python
+- https://github.com/ageitgey/face_recognition

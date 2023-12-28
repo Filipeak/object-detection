@@ -1,10 +1,3 @@
-"""
-Resources:
- - https://realpython.com/face-recognition-with-python
- - https://github.com/ageitgey/face_recognition
-"""
-
-
 from ultralytics import YOLO
 import cv2
 import face_recognition
